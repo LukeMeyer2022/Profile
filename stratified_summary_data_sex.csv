@@ -1,5 +1,5 @@
-,age,age,age,age,age,income,income,income,income,income,waistcirc,waistcirc,waistcirc,waistcirc,waistcirc,bmi,bmi,bmi,bmi,bmi,albuminuria,albuminuria,albuminuria,albuminuria,albuminuria,uralbcr,uralbcr,uralbcr,uralbcr,uralbcr,uricacid,uricacid,uricacid,uricacid,uricacid,bloodglucose,bloodglucose,bloodglucose,bloodglucose,bloodglucose,hdl,hdl,hdl,hdl,hdl,triglycerides,triglycerides,triglycerides,triglycerides,triglycerides
-,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%,mean,std,25%,50%,75%
-sex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Female,48.487,17.559,34.0,48.0,63.0,3916.825,2943.454,1600.0,2500.0,6200.0,96.342,16.505,83.625,95.0,106.2,29.04,7.324,23.7,27.9,33.3,0.146,0.404,0.0,0.0,0.0,40.749,246.621,5.34,8.17,15.405,4.909,1.35,4.0,4.7,5.6,105.144,32.584,90.0,97.0,107.0,58.153,15.283,48.0,56.0,66.0,116.009,81.829,71.0,98.0,138.5
-Male,48.9,17.713,34.0,48.0,63.0,4096.356,2963.439,1600.0,2500.0,6200.0,100.287,15.756,89.6,99.0,109.0,28.359,5.898,24.4,27.6,31.3,0.162,0.441,0.0,0.0,0.0,46.554,269.687,3.882,5.855,11.742,6.079,1.278,5.2,6.0,6.8,111.407,36.703,95.0,102.0,112.0,48.502,13.444,40.0,46.0,55.0,140.455,105.948,78.0,111.5,164.0
+,age,age,income,income,waistcirc,waistcirc,bmi,bmi,albuminuria,albuminuria,uralbcr,uralbcr,uricacid,uricacid,bloodglucose,bloodglucose,hdl,hdl,triglycerides,triglycerides
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+sex,,,,,,,,,,,,,,,,,,,,
+Female,48.487,17.559,3916.825,2943.454,96.342,16.505,29.04,7.324,0.146,0.404,40.749,246.621,4.909,1.35,105.144,32.584,58.153,15.283,116.009,81.829
+Male,48.9,17.713,4096.356,2963.439,100.287,15.756,28.359,5.898,0.162,0.441,46.554,269.687,6.079,1.278,111.407,36.703,48.502,13.444,140.455,105.948

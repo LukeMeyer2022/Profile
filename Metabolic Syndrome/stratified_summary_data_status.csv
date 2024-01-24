@@ -1,5 +1,5 @@
-,age,age,income,income,waistcirc,waistcirc,bmi,bmi,albuminuria,albuminuria,uralbcr,uralbcr,uricacid,uricacid,bloodglucose,bloodglucose,hdl,hdl,triglycerides,triglycerides
-,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
-metabolicsyndrome,,,,,,,,,,,,,,,,,,,,
-MetSyn,54.766,16.02,3664.295,2777.561,109.372,14.876,32.665,6.728,0.247,0.523,74.107,347.836,5.981,1.526,125.725,45.752,45.555,12.11,184.558,129.071
-No MetSyn,45.529,17.611,4184.502,3028.243,92.401,13.671,26.624,5.603,0.106,0.35,27.759,194.339,5.233,1.322,99.149,22.651,57.438,15.035,98.747,51.279
+,age,age,age,age,income,income,income,income,waistcirc,waistcirc,waistcirc,waistcirc,bmi,bmi,bmi,bmi,albuminuria,albuminuria,albuminuria,albuminuria,uralbcr,uralbcr,uralbcr,uralbcr,uricacid,uricacid,uricacid,uricacid,bloodglucose,bloodglucose,bloodglucose,bloodglucose,hdl,hdl,hdl,hdl,triglycerides,triglycerides,triglycerides,triglycerides
+,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max,min,25%,50%,max
+metabolicsyndrome,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MetSyn,20.0,43.0,56.0,80.0,300.0,1600.0,2500.0,9000.0,72.0,99.825,107.15,176.0,16.2,28.1,31.7,68.7,0.0,0.0,0.0,2.0,1.41,5.203,9.145,5928.0,2.1,4.9,5.9,11.3,47.0,102.0,110.0,382.0,21.0,38.0,44.0,98.0,31.0,108.0,157.5,1562.0
+No MetSyn,20.0,30.0,43.0,80.0,300.0,1600.0,3500.0,9000.0,56.2,82.3,91.6,147.0,13.4,22.8,25.8,62.8,0.0,0.0,0.0,2.0,1.4,4.19,6.31,4462.81,1.8,4.3,5.2,10.5,39.0,90.0,96.0,366.0,14.0,47.0,55.0,156.0,26.0,66.0,89.0,700.0

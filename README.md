@@ -4,7 +4,7 @@
 
 Welcome to my **Data Analysis and Machine Learning Portfolio**! This repository is a dynamic showcase of my journey in the fascinating world of data science. It encapsulates a series of projects demonstrating my skills in data manipulation, cleaning, statistical analysis, and visualization, using Python and its powerful libraries.
 
-## Key Features
+## Key Features and Techniques Covered
 
 - **Data Cleaning and Manipulation**: Dive into my methodologies for transforming raw data into clean, analyzable datasets using Pandas and NumPy.
   
